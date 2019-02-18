@@ -1,0 +1,11 @@
+{
+    "name": "aula2",
+    "version": "1.0.0",
+    "description": "Projeto para a aula 2 de TAP",
+    "main": "index.js",
+    "scripts": {
+        "test": "echot \"Error: no test specified\" && exit 1"
+    },
+    "autor": "Jailton Ventura",
+    "license": "ISC"
+}
